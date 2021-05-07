@@ -1,4 +1,4 @@
-declare module "react-visibility-sensor" {
+declare module "react-visibility-sensor-v2" {
   import * as React from "react";
 
   interface Shape {
